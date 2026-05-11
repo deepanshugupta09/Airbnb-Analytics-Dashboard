@@ -1,5 +1,8 @@
 # Airbnb Analytics Dashboard
 
+## Download PBIX File
+[Click Here to Download Dashboard]((https://drive.google.com/file/d/1BVu8C45sBQOoNsVoDbJ7oVzMRntai1JH/view?usp=drive_link))
+
 ## Overview
 This project is a comprehensive Airbnb Analytics Dashboard developed using Power BI. The dashboard provides deep insights into Airbnb listings, customer reviews, booking trends, pricing patterns, host performance, and occupancy analysis.
 
