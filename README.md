@@ -72,6 +72,16 @@ The dashboard helps analyze:
 - Designed dashboards to uncover business trends and patterns
 - Applied data storytelling techniques for actionable insights
 
+## Dashboard Screenshots
+
+### Overview Dashboard
+![Overview Dashboard](https://github.com/deepanshugupta09/Airbnb-Analytics-Dashboard/blob/main/Overview?raw=true)
+
+### Ratings Dashboard
+![Ratings Dashboard](https://github.com/deepanshugupta09/Airbnb-Analytics-Dashboard/blob/main/Ratings?raw=true)
+
+### Reviews Dashboard
+![Reviews Dashboard](https://github.com/deepanshugupta09/Airbnb-Analytics-Dashboard/blob/main/Reviews?raw=true)
 ---
 
 ## Folder Structure
